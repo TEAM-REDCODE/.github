@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-REDCODE)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&section=footer&text=REDCODE&fontSize=40&animation=twinkling&fontColor=FFFFFF&rotate=15" />
 
 <!--
