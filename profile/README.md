@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, We are RedCode</h1>
 <h3 align="center">Creating a world where anything is possible with determination.</h3>
-<br><br><br>
+<br><br>
 <h3 align="left">Connect with me: gayun53a@korea.ac.kr</h3>
 <p align="left">
 </p>
