@@ -1,4 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&section=header&text=REDCODE&fontSize=40&animation=twinkling&fontColor=FFFFFF&rotate=15" />
+
 ## Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FF0000&height=200&section=footer&text=REDCODE&fontSize=40&animation=twinkling&fontColor=FFFFFF&rotate=15" />
 
 <!--
 
