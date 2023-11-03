@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, We are RedCode</h1>
 <h3 align="center">Creating a world where anything is possible with determination.</h3>
 <br><br>
-<h3 align="left">Connect with me: gayun53a@korea.ac.kr</h3>
+<h3 align="left">Connect with me: <a href="mailto:gayun53a@korea.ac.kr">gayun53a@korea.ac.kr</a></h3>
 <p align="left">
 </p>
 
